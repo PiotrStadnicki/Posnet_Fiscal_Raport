@@ -3,9 +3,9 @@ using System.Text.RegularExpressions;
 using ConsoleApp4;
 using SautinSoft.Document;
 
-var files = Directory.GetFiles("Raporty", "*.txt");
-string FilePath = (@"WordTemplate.docx");
-string NewFile = (@"Gotowe/");
+var files = Directory.GetFiles("D:/Raporty", "*.txt");
+string FilePath = (@"D:/WordTemplate.docx");
+string NewFile = (@"D:/Gotowe/");
 Console.WriteLine(files);
 foreach (var file in files)
 {    

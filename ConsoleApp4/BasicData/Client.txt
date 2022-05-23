@@ -1,0 +1,20 @@
+1) ClientName
+klijent
+2) ClientTaxID
+123-123-12-12
+3) ClientCountry
+Polska
+4) ClientStreet
+Sezamkowa
+5) ClientProvince
+mazowieckie
+6) ClientAdressNo
+54321
+7) ClientPostcode
+54-3215
+8) ClientTelephone
+333 222 111
+9) Clientmail
+client@fiscal.pk
+10) ClientCity
+Warszawa

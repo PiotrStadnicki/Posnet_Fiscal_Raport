@@ -19,7 +19,7 @@ namespace ConsoleApp4
             DateTime dateTime = DateTime.Today;
             string Now = DateTime.Today.ToString("d");
             
-            var ServiceCompany = File.ReadAllLines("BasicData/ServiceCompany.txt");
+            var ServiceCompany = File.ReadAllLines("D:/BasicData/ServiceCompany.txt");
 
 
             return new Dictionary<string, string>
@@ -35,12 +35,13 @@ namespace ConsoleApp4
                 {"ServisantTelephone",ServiceCompany[17]},
                 {"Servmail",ServiceCompany[19]},
                 {"ServisantTaxpayer",ServiceCompany[21]},
+                {"Now",Now }
             };
         }
         public static Dictionary<string, string> GetServiceTechnician()
         {
 
-            var ServiceTechnician = File.ReadAllLines("BasicData/Servisant.txt");
+            var ServiceTechnician = File.ReadAllLines("D:/BasicData/Servisant.txt");
 
             return new Dictionary<string, string>
             {
@@ -52,7 +53,7 @@ namespace ConsoleApp4
         }
         public static Dictionary<string, string> GetServiceClient()
         {
-            var ServiceClient = File.ReadAllLines("BasicData/Client.txt");
+            var ServiceClient = File.ReadAllLines("D:/BasicData/Client.txt");
             return new Dictionary<string, string>
             {
                 {"ClientName",ServiceClient[1]},

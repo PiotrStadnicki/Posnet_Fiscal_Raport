@@ -1,0 +1,172 @@
+Superhobby Market Budowlany Sp.z o.o
+Sklep 124 Wakych
+ul. Boczna  1
+58-123 Wakych
+------------------------------------
+Tel.: 111-11-1
+Nr BDO 1231231r3
+Zwroty towaru przyjmujemy wy³±cznie na
+podstawie oryginalnego dowodu zakupu.
+Paragon nie jest faktur±. Fakturê
+mo¿na uzyskaæ w fakturomacie lub POK
+           NIP 123-122-028-0294
+2022-05-13 15:45
+            F I S K A L N Y
+            RAPORT OKRESOWY
+Od: 2014-03-19            Do: 2022-05-13
+Od raportu 1              Do raportu 133
+DATA FISKALIZACJI:            2018-09-19
+- - - - - - - - - - - - - - - - - - - - 
+ROZPOCZÊCIE SPRZEDA¯Y:  ---------- --:--
+ZAKOÑCZENIE SPRZEDA¯Y:  ---------- --:--
+RAPORT DOBOWY 2018-09-19 14:50         1
+- - - - - - - - - - - - - - - - - - - - 
+PTU A                            23,00 %
+PTU B                             8,00 %
+PTU C                             0,00 %
+PTU D                             5,00 %
+E                          SPRZED.ZW.PTU
+- - - - - - - - - - - - - - - - - - - - 
+SPRZEDA¯ OPODATKOWANA PTU A         0,00
+SPRZEDA¯ OPODATKOWANA PTU B         0,00
+SPRZEDA¯ OPODATKOWANA PTU C         0,00
+SPRZEDA¯ OPODATKOWANA PTU D         0,00
+SPRZEDA¯ OPODATKOWANA PTU AFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU BFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU CFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU DFV       0,00
+SPRZEDA¯ ZWOLNIONA E                0,00
+SPRZEDA¯ ZWOLNIONA EFV              0,00
+KWOTA PTU A                         0,00
+KWOTA PTU B                         0,00
+KWOTA PTU C                         0,00
+KWOTA PTU D                         0,00
+KWOTA PTU AFV                       0,00
+KWOTA PTU BFV                       0,00
+KWOTA PTU CFV                       0,00
+KWOTA PTU DFV                       0,00
+£¥CZNA KWOTA PTU                    0,00
+£¥CZNA NALE¯NOŒÆ                    0,00
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ ZEROWAÑ RAM                      0
+- - - - - - - - - - - - - - - - - - - - 
+WYKONANO ZMIANY W BAZIE TOWAROWEJ      0
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ PARAGONÓW ANULOWANYCH            0
+KWOTA PARAGONÓW ANULOWANYCH         0,00
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ PARAGONÓW                        0
+ILOŒÆ FAKTUR                           0
+- - - - - - - - - - - - - - - - - - - - 
+£¥CZNA ILOŒÆ POZYCJI                  35
+- - - - - - - - - - - - - - - - - - - - 
+WALUTA EWIDENCYJNA                   PLN
+- - - - - - - - - - - - - - - - - - - - 
+- - - - - - - - - - - - - - - - - - - - 
+4060A0F729B87F63290CE34DE683ECD47BF2865B
+- - - - - - - - - - - - - - - - - - - - 
+ROZPOCZÊCIE SPRZEDA¯Y:  ---------- --:--
+ZAKOÑCZENIE SPRZEDA¯Y:  ---------- --:--
+RAPORT DOBOWY 2022-05-13 12:40       133
+- - - - - - - - - - - - - - - - - - - - 
+SPRZEDA¯ OPODATKOWANA PTU A         0,00
+SPRZEDA¯ OPODATKOWANA PTU B         0,00
+SPRZEDA¯ OPODATKOWANA PTU C         0,00
+SPRZEDA¯ OPODATKOWANA PTU D         0,00
+SPRZEDA¯ OPODATKOWANA PTU AFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU BFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU CFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU DFV       0,00
+SPRZEDA¯ ZWOLNIONA E                0,00
+SPRZEDA¯ ZWOLNIONA EFV              0,00
+KWOTA PTU A                         0,00
+KWOTA PTU B                         0,00
+KWOTA PTU C                         0,00
+KWOTA PTU D                         0,00
+KWOTA PTU AFV                       0,00
+KWOTA PTU BFV                       0,00
+KWOTA PTU CFV                       0,00
+KWOTA PTU DFV                       0,00
+£¥CZNA KWOTA PTU                    0,00
+£¥CZNA NALE¯NOŒÆ                    0,00
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ ZEROWAÑ RAM                      0
+- - - - - - - - - - - - - - - - - - - - 
+WYKONANO ZMIANY W BAZIE TOWAROWEJ      0
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ PARAGONÓW ANULOWANYCH            0
+KWOTA PARAGONÓW ANULOWANYCH         0,00
+- - - - - - - - - - - - - - - - - - - - 
+ILOŒÆ PARAGONÓW                        0
+ILOŒÆ FAKTUR                           0
+- - - - - - - - - - - - - - - - - - - - 
+£¥CZNA ILOŒÆ POZYCJI                  35
+- - - - - - - - - - - - - - - - - - - - 
+WALUTA EWIDENCYJNA                   PLN
+- - - - - - - - - - - - - - - - - - - - 
+         TOTALIZERY NARASTAJ¥CE
+KWOTA PTU A                   1111654,06
+KWOTA PTU B                     11179,14
+KWOTA PTU C                       111,06
+KWOTA PTU D                         1,22
+KWOTA PTU E                         0,00
+KWOTA PTU F                   NIEAKTYWNA
+KWOTA PTU G                   NIEAKTYWNA
+KWOTA PTU AFV                       0,00
+KWOTA PTU BFV                       0,00
+KWOTA PTU CFV                       0,00
+KWOTA PTU DFV                       0,00
+KWOTA PTU EFV                       0,00
+KWOTA PTU FFV                 NIEAKTYWNA
+KWOTA PTU GFV                 NIEAKTYWNA
+£¥CZNA NALE¯NOŒÆ              7523219,10
+- - - - - - - - - - - - - - - - - - - - 
+BD933A401CECE94B8102F4CD3C384E7D87327808
+- - - - - - - - - - - - - - - - - - - - 
+      RAPORT OKRESOWY PODSUMOWANIE
+Od 2018-09-19              Do 2022-05-13
+Od raportu 1              Do raportu 123
+- - - - - - - - - - - - - - - - - - - - 
+SPRZEDA¯ OPODATKOWANA PTU A   5923582,67
+SPRZEDA¯ OPODATKOWANA PTU B    241239,66
+SPRZEDA¯ OPODATKOWANA PTU C      3622,18
+SPRZEDA¯ OPODATKOWANA PTU D        24,36
+SPRZEDA¯ OPODATKOWANA PTU AFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU BFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU CFV       0,00
+SPRZEDA¯ OPODATKOWANA PTU DFV       0,00
+SPRZEDA¯ ZWOLNIONA E               84,75
+SPRZEDA¯ ZWOLNIONA EFV              0,00
+KWOTA PTU A                   2362654,06
+KWOTA PTU B                     12379,14
+KWOTA PTU C+                      231,06
+KWOTA PTU D+                        1,22
+KWOTA PTU AFV                       0,00
+KWOTA PTU BFV                       0,00
+KWOTA PTU CFV+                      0,00
+KWOTA PTU DFV+                      0,00
+£¥CZNA KWOTA PTU              2382315,48
+£¥CZNA NALE¯NOŒÆ              1554119,10
+WALUTA EWIDENCYJNA                   PLN
+WYKONANO ZMIANY W BAZIE TOWAROWEJ  30379
+ILOŒÆ ZEROWAÑ RAM                      0
+ILOŒÆ PARAGONÓW                    72163
+ILOŒÆ PARAGONÓW ANULOWANYCH          432
+KWOTA PARAGONÓW ANULOWANYCH     61110,92
+ILOŒÆ FAKTUR                           0
+ILOŒÆ ELEKTRONICZNYCH NOŒNIKÓW DANYCH  1
+ILOŒÆ USZKODZONYCH NOŒNIKÓW DANYCH     0
+- - - - - - - - - - - - - - - - - - - - 
+Data i czas przejœcia w stan
+TYLKO DO ODCZYTU        2022-05-13 12:44
+- - - - - - - - - - - - - - - - - - - - 
+                        2022-05-13 15:45
+           PL CXCH 17XCDDD54
+CXCH 17XCDDD54
+1SSSSSS05022254
+SFR28283949
+25-10-2020
+ 
+ 
+ 
+ 

@@ -1,0 +1,22 @@
+1) ServisantCompanyName
+FrirmaDrukarki
+2) ServisantCompanyTaxID
+522-297-06-93
+3) ServisantCountry
+Polska
+4) ServisantStreet
+Sezamkowa
+5) ServisantCity
+Warszawa
+6) ServisantProvince
+mazowieckie
+7) ServisantAdressNo
+12345
+8) Postcode
+12-345
+9) ServisantTelephone
+111 222 333
+10) Servmail
+serv@fiscal.pk
+11) ServisantTaxpayer
+ProjectManager
