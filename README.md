@@ -19,7 +19,7 @@ Dane w aplikacji są podzielone na biblioteki Gdzie <TKey> są Nazwy zmiennych ,
 Dane bazowe (na temat klienta serwisanta i firmy serwisującej Drukarkę fiskalną) są umieszczone w Folderze "BasicData" 
 ,,,,,,,
 
-###3Instrukcja Obsługi ###
+### 3Instrukcja Obsługi
   
 1.  )Na początku należy pozyskać raport z drukarki fiskalnej przy pomocy archiwizera
 
