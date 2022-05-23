@@ -60,9 +60,9 @@ Basic data (about the customer, the service technician and the company servicing
 
 2. write down from the Booklet at the end of the report and place it directly under the last line<br>
   
-  Unique number<br>
-  Factory serial number<br>
-  Evidence Number<br>
-  Dates of technical inspections<br>
+    . Unique number<br>
+    . Factory serial number<br>
+    . Evidence Number<br>
+    . Dates of technical inspections<br>
   
 3. Ready reports are automatically generated from all text files from the "Raporty" folder
