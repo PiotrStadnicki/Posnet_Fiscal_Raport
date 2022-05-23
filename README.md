@@ -1,7 +1,7 @@
 # PL
 ## Użyte technologie ###
 sautinsoft.document 5.5.4.14,<br>
-net6.0
+net6.0<br>
 
 
 ## Opis aplikacji
@@ -23,10 +23,10 @@ Dane bazowe (na temat klienta serwisanta i firmy serwisującej Drukarkę fiskaln
   
 1.  Na początku należy pozyskać raport z drukarki fiskalnej przy pomocy archiwizera
 
-2.  na końcu raportu spisać z Książeczki i umieścić bezpośrednio pod ostatnią linią
-.Nr unikatowy  
-.Nr fabryczny kasy
-.Nr ewidencyjny
+2.  na końcu raportu spisać z Książeczki i umieścić bezpośrednio pod ostatnią linią<br>
+.Nr unikatowy  <br>
+.Nr fabryczny kasy<br>
+.Nr ewidencyjny<br>
 .Daty przeglądów technicznych
   
 3.  Gotowe raporty są automatycznie generowane ze wszystkich plików tekstowych z folderu "Raporty"
@@ -34,7 +34,7 @@ Dane bazowe (na temat klienta serwisanta i firmy serwisującej Drukarkę fiskaln
   
  # EN
 ## Technologies used
-sautinsoft.document 5.5.4.14
+sautinsoft.document 5.5.4.14<br>
   
 net6.0
 
@@ -58,11 +58,11 @@ Basic data (about the customer, the service technician and the company servicing
   
 1. First, you need to obtain a report from a fiscal printer using an archiver
 
-2. write down from the Booklet at the end of the report and place it directly under the last line
+2. write down from the Booklet at the end of the report and place it directly under the last line<br>
   
-. Unique number
-. Factory serial number
-.Evidence Number
-. Dates of technical inspections
+. Unique number<br>
+. Factory serial number<br>
+.Evidence Number<br>
+. Dates of technical inspections<br>
   
 3. Ready reports are automatically generated from all text files from the "Raporty" folder
