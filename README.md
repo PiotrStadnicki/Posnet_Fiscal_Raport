@@ -24,10 +24,11 @@ Dane bazowe (na temat klienta serwisanta i firmy serwisującej Drukarkę fiskaln
 1.  Na początku należy pozyskać raport z drukarki fiskalnej przy pomocy archiwizera
 
 2.  na końcu raportu spisać z Książeczki i umieścić bezpośrednio pod ostatnią linią
-*.Nr unikatowy
+*.Nr unikatowy  
 *.Nr fabryczny kasy
 *.Nr ewidencyjny
 *.Daty przeglądów technicznych
+  
 3.  Gotowe raporty są automatycznie generowane ze wszystkich plików tekstowych z folderu "Raporty"
   
   
@@ -57,8 +58,10 @@ Basic data (about the customer, the service technician and the company servicing
 1. First, you need to obtain a report from a fiscal printer using an archiver
 
 2. write down from the Booklet at the end of the report and place it directly under the last line
+  
 *. Unique number
 *. Factory serial number
 *.Evidence Number
 *. Dates of technical inspections
+  
 3. Ready reports are automatically generated from all text files from the "Raporty" folder
