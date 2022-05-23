@@ -24,8 +24,6 @@ namespace ConsoleApp4
             Name=name;
             Value = value;
             FilePath= loadPath;
-            
-
             Regex regex = new Regex("{" + name + "}", RegexOptions.IgnoreCase);
 
             foreach (ContentRange item in dc.Content.Find(regex).Reverse())
@@ -80,8 +78,6 @@ namespace ConsoleApp4
             FilePath = loadPath;
             Line = line;
             Position= position;
-            
-
             string periodicRaportLine = PeriodicRaport[Line];
             string[] valueLine = periodicRaportLine.Split(' ');
             string value = valueLine[Position];
@@ -100,7 +96,6 @@ namespace ConsoleApp4
         public string Name { get; set; }
         public string Value { get; set; }
         public string FilePath { get; set; }
-
         public int Position { get; set; }
     }
 }

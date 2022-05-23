@@ -20,8 +20,6 @@ namespace ConsoleApp4
 
             return new Dictionary<string, string>
             {
-
-
                 {"ServisantCompanyName","FrirmaDreukarki"},
                 {"ServisantCompanyTaxID","522-297-06-93"},
                 {"ServisantCountry","Polska"},
@@ -34,28 +32,22 @@ namespace ConsoleApp4
                 {"Servmail","serv@fiscal.pk"},
                 {"ServisantTaxpayer" ,"ProjectManager"},
                 {"Now",Now},
-
             };
         }
         public static Dictionary<string, string> GetServiceTechnician()
         {
             return new Dictionary<string, string>
             {
-
                 {"ServisantName","522-297-06-93"},
                 {"ServisantID","22222"},
                 {"ServisantIdDate","12-12-2012"},
-
-
             };
         }
         public static Dictionary<string, string> GetServiceClieent()
         {
             return new Dictionary<string, string>
             {
-
-                {"ClientName","klijent"},
-            
+                {"ClientName","klijent"},         
                 {"ClientTaxID","123-123-12-12"},
                 {"ClientCountry","Polska"},
                 {"ClientStreet","Sezamkowa "},
@@ -65,8 +57,6 @@ namespace ConsoleApp4
                 {"ClientTelephone","333 222 111"},
                 {"Clientmail","client@fiscal.pk"},
                 {"ClientCity","Warszawa"},
-
-
             };
         }
         

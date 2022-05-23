@@ -15,7 +15,6 @@ namespace ConsoleApp4
         {
             RaportPath = raportPath;
         }
-
         string RaportPath;
         public string[] PeriodicRaport;
         public void Raport()
@@ -40,9 +39,7 @@ namespace ConsoleApp4
             {
 
                 periodicRaport[helper] = document[starter];
-
                 starter++;
-
                 helper++;
             }
              PeriodicRaport = periodicRaport;

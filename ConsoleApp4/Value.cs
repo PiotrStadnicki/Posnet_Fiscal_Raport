@@ -36,10 +36,7 @@ namespace ConsoleApp4
                 {"NumberOfDeletedFiscal",27},
                 {"ValueDeletedFiscal",28},
                 {"NumberOfDeleted",1},
-
-
-
-            };
+          };
 
         }
         public static Dictionary<string, int> GetValueFiscal()
@@ -53,9 +50,8 @@ namespace ConsoleApp4
                 {"TechnicalInspectionDates",41},
             };
         }
-        
+       
         public static Dictionary<string, int[]> GetStartValueFiscal()
-
         {
             return new Dictionary<string, int[]>
             {
