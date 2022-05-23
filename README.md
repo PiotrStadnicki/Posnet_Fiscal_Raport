@@ -1,7 +1,6 @@
 # PL
 ## Użyte technologie ###
-sautinsoft.document 5.5.4.14
-
+sautinsoft.document 5.5.4.14,<br>
 net6.0
 
 
