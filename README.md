@@ -21,7 +21,7 @@ Dane bazowe (na temat klienta serwisanta i firmy serwisującej Drukarkę fiskaln
 
 ## Instrukcja Obsługi
   
-1.  )Na początku należy pozyskać raport z drukarki fiskalnej przy pomocy archiwizera
+1.  Na początku należy pozyskać raport z drukarki fiskalnej przy pomocy archiwizera
 
 2.  na końcu raportu spisać z Książeczki i umieścić bezpośrednio pod ostatnią linią
 *.Nr unikatowy
@@ -54,7 +54,7 @@ Basic data (about the customer, the service technician and the company servicing
 
 ## User manual
   
-1.) First, you need to obtain a report from a fiscal printer using an archiver
+1. First, you need to obtain a report from a fiscal printer using an archiver
 
 2. write down from the Booklet at the end of the report and place it directly under the last line
 *. Unique number
