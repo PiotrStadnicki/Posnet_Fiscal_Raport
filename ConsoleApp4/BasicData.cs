@@ -8,6 +8,7 @@ namespace ConsoleApp4
 {
     internal class BasicData
     {
+        
         string discalPrinterOwner;
         BasicData(string RaportPath)
         {
@@ -17,46 +18,56 @@ namespace ConsoleApp4
         {
             DateTime dateTime = DateTime.Today;
             string Now = DateTime.Today.ToString("d");
+            
+            var ServiceCompany = File.ReadAllLines("BasicData/ServiceCompany.txt");
+
 
             return new Dictionary<string, string>
             {
-                {"ServisantCompanyName","FrirmaDreukarki"},
-                {"ServisantCompanyTaxID","522-297-06-93"},
-                {"ServisantCountry","Polska"},
-                {"ServisantStreet","Sezamkowa "},
-                {"ServisantCity","Warszawa "},
-                {"ServisantProvince","mazowieckie"},
-                {"ServisantAdressNo","12345"},
-                {"Postcode","12-345"},
-                {"ServisantTelephone","111 222 333"},
-                {"Servmail","serv@fiscal.pk"},
-                {"ServisantTaxpayer" ,"ProjectManager"},
-                {"Now",Now},
+                {"ServisantCompanyName",ServiceCompany[1]},
+                {"ServisantCompanyTaxID",ServiceCompany[3]},
+                {"ServisantCountry",ServiceCompany[5]},
+                {"ServisantStreet",ServiceCompany[7]},
+                {"ServisantCity",ServiceCompany[9]},
+                {"ServisantProvince",ServiceCompany[11]},
+                {"ServisantAdressNo",ServiceCompany[13]},
+                {"Postcode",ServiceCompany[15]},
+                {"ServisantTelephone",ServiceCompany[17]},
+                {"Servmail",ServiceCompany[19]},
+                {"ServisantTaxpayer",ServiceCompany[21]},
             };
         }
         public static Dictionary<string, string> GetServiceTechnician()
         {
+
+            var ServiceTechnician = File.ReadAllLines("BasicData/Servisant.txt");
+
             return new Dictionary<string, string>
             {
-                {"ServisantName","522-297-06-93"},
-                {"ServisantID","22222"},
-                {"ServisantIdDate","12-12-2012"},
+
+                {"ServisantName",ServiceTechnician[1]},
+                {"ServisantID",ServiceTechnician[3]},
+                {"ServisantIdDate",ServiceTechnician[5]},
             };
         }
-        public static Dictionary<string, string> GetServiceClieent()
+        public static Dictionary<string, string> GetServiceClient()
         {
+            var ServiceClient = File.ReadAllLines("BasicData/Client.txt");
             return new Dictionary<string, string>
             {
-                {"ClientName","klijent"},         
-                {"ClientTaxID","123-123-12-12"},
-                {"ClientCountry","Polska"},
-                {"ClientStreet","Sezamkowa "},
-                {"ClientProvince","mazowieckie"},
-                {"ClientAdressNo","54321"},
-                {"ClientPostcode","54-3215"},
-                {"ClientTelephone","333 222 111"},
-                {"Clientmail","client@fiscal.pk"},
-                {"ClientCity","Warszawa"},
+                {"ClientName",ServiceClient[1]},
+                {"ClientTaxID",ServiceClient[3]},
+                {"ClientCountry",ServiceClient[5]},
+                {"ClientStreet",ServiceClient[7]},
+                {"ClientProvince",ServiceClient[9]},
+                {"ClientAdressNo",ServiceClient[11]},
+                {"ClientPostcode",ServiceClient[13]},
+                {"ClientTelephone",ServiceClient[15]},
+                {"Clientmail",ServiceClient[17]},
+                {"ClientCity",ServiceClient[19]},
+                
+
+
             };
         }
         

@@ -23,7 +23,7 @@ foreach (var file in files)
     {
         BasicData.GetServiceCompany(),
         BasicData.GetServiceTechnician(),
-        BasicData.GetServiceClieent(),       
+        BasicData.GetServiceClient(),       
     };
 
     foreach (var dictionary in Metchods)
